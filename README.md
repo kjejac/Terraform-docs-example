@@ -97,6 +97,10 @@ This another way to that's simpler than using `<sup>`, use a `[^1]` in the text 
 [^1]
 
 
+### Link to another file
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
+
+
 ## External References
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
