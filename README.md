@@ -90,7 +90,11 @@ Github extends the functionality of Markdown tables to provide more alignment an
 >
 
 ## Step 6 - Footnotes
-Something something more something[^1]
+This another way to that's simpler than using `<sup>`, use a `[^1]` in the text and 
+```md 
+`[^1]: Footnote text`
+```
+[^1]
 
 
 ## External References
@@ -99,7 +103,7 @@ Something something more something[^1]
 - [GFM - Taskslists](https://github.github.com/gfm/#task-list-items-extension-) <sup>[1]</sup>
 - [GFM - Emoji CheetSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) <sup>[2]</sup>
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[3]</sup>
-- [Footnote](^1)
+- [^1]: Footnote 
 
 
 
