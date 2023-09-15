@@ -89,6 +89,8 @@ You can use the following markdown format to create tables:
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options.[<sup>[3]</sup>](#external-references)
 >
 
+## Step 6 - Footnotes
+Something something more something[^1]
 
 
 ## External References
@@ -97,6 +99,7 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - [GFM - Taskslists](https://github.github.com/gfm/#task-list-items-extension-) <sup>[1]</sup>
 - [GFM - Emoji CheetSheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) <sup>[2]</sup>
 - [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup>[3]</sup>
+- [Footnote](^1)
 
 
 
