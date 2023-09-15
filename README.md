@@ -33,7 +33,12 @@ class Program
     }
 }
 ```
+Absolute path
 ![image](https://github.com/kjejac/Terraform-docs-example/assets/77548406/09a686d0-ea36-4024-9a85-f81f26d787cd)
+
+Link to image in repo, dynamic 
+
+![Uploaded image to Github](assets/24893_114858655200558_6859128_n.jpg)
 
 *Use HTML width to edit the size of the picture*
 
